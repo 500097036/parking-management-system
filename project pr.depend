@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703829328 source:c:\users\ranja\onedrive - upes\documents\codes\codeblocks\project pr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
